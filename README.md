@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bina101077
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Wep develepment with Le wagon in Nice.
-- 💞️ I’m curious about everything, because i'm in the very beginning.I'll be happy to learn everything useful for the coding.
+- 💞️ I’m curious about everything, because i'm in the very beginning.I'll be happy to learn anything useful for the coding.
 - 📫 How to reach me ...
 
 <!---
